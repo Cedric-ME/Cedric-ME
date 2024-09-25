@@ -1,4 +1,4 @@
-Salut, je suis Cédric 👋
+Salut, je suis Cédric 👋  
 et après une riche expérience dans le contrôle de gestion, je me suis tourné vers le métier de data analyst, où j'ai trouvé ma vraie passion !  
 
 ⚡️ En tant que data analyst, j'aime particulièrement la capacité à transformer des données brutes en informations stratégiques et pertinentes, révélant des insights souvent invisibles à première vue.  
